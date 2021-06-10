@@ -1,0 +1,22 @@
+table{
+    font-family: cursive;
+    border-collapse: collapse;
+    border-width: 5px;
+    border-style: groove;
+    border-color: #0ee8f3;
+    background-image: url("sky1.gif");
+}
+
+th{
+    font-weight: 800;
+    padding: 5px;
+    background-color: #38daf0;
+    color: #010a01;
+}
+H2{
+    font-weight: 700;
+    color: brown;
+    font-style: unset;
+    font-weight: bold;
+}
+
